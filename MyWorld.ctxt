@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getskorseal()
+comment2.params=
+comment2.target=int\ getball()
+comment3.params=
+comment3.target=int\ getcactus()
+comment4.params=x
+comment4.target=void\ upskor(int)
+comment5.params=
+comment5.target=int\ getnyawaseal()
+comment6.params=
+comment6.target=void\ updnyawa()
+comment7.params=
+comment7.target=MyWorld()
+comment7.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment8.params=
+comment8.target=void\ prepare()
+comment8.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=9
